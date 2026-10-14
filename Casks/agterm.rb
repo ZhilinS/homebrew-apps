@@ -2,8 +2,8 @@
 # ZhilinS/homebrew-apps (Casks/agterm.rb) on first publish and rewrites the
 # version + sha256 lines on every release.
 cask "agterm" do
-  version "0.36.1"
-  sha256 "724aa5c5819a66b63e789abaf9c16222783637442edfc7aa5a27585df5a0d1f4"
+  version "0.36.0-fork.1"
+  sha256 "3e044b2aea62c03d5165cae9e0fc2d0cc361d7bf61e85362f8569acfc3de9832"
 
   url "https://github.com/ZhilinS/agterm/releases/download/v#{version}/agterm-#{version}.dmg"
   name "agterm"
